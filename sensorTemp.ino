@@ -2,7 +2,6 @@
 // Room temp sensor that tracks hottest/coldest (°F) and shows LED bands (°C)
 
 #include <Arduino.h>
-#include <stdbool.h>
 
 const int sensorPin = A0;
 const float baselineTemp = 20.0;
