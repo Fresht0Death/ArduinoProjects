@@ -23,3 +23,19 @@ Reads temperature from a TMP36 sensor, tracks the **hottest and coldest values o
 - Breadboard + jumper wires
 
 **Wiring:**
+
+
+ARDUINO
+|
+| - 5V
+| - GND
+|
+| - pin#2 - 220 Ohm Res -  G LED
+|
+| - pin#3 - 220 Ohm Res -  Y LED
+|
+| - pin#4 - 220 Ohm Res -  R LED
+|
+| - A0 - GND - 5V - Temp Sensor
+
+
