@@ -19,7 +19,7 @@ Tracks min/max in °F
 LED indicators show temperature zones based on °C thresholds
 Prints live readings + min/max to Serial Monitor
 
-3. potentiometerLEDs
+2. potentiometerLEDs
 
 Description:
 A potentiometer controls a 3-LED bar display plus a blue LED. The bar LEDs act as thresholds, while the blue LED pulses using PWM when the potentiometer is above a high threshold.
@@ -29,7 +29,7 @@ Lights up LEDs step-by-step as the potentiometer increases
 Uses PWM to create a fading pulse effect on the blue LED when the top band is reached
 Practice with state machines, PWM, and analog scaling
 
-5. spaceshipInterface
+3. spaceshipInterface
 
 Description:
 A simple interactive project inspired by the “spaceship interface” Arduino example. Uses LEDs to simulate a control panel, with input from a pushbutton to trigger LED sequences.
