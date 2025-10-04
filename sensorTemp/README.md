@@ -1,4 +1,4 @@
-#**sensorTemp**
+#sensorTemp (H1)
 
 Description:
 Reads temperature from a TMP36 sensor, tracks the hottest and coldest values of the day (°F), and displays temperature ranges with 3 LEDs (°C bands).
