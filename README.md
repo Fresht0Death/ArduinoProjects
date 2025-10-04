@@ -1,6 +1,6 @@
 # ArduinoProjects
 
-In an attempt to better understand embedded systems and embedded C, I am building small projects that track data, interact with hardware, and eventually log results. Each project is meant to build on my knowledge of C/C++, Arduino, and embedded systems concepts. This is a self-driven endeavour to reach my goal of become an embedded systems engineer. The purpose of this repo is to share my projects, ideas, and technical knowledge.
+In an attempt to better understand embedded systems and embedded C, I am building small projects that track data, interact with hardware, and eventually log results. Each project is meant to build on my knowledge of C/C++, Arduino, and embedded systems concepts. This is a self-driven endeavour to reach my goal of becoming an embedded systems engineer. The purpose of this repo is to share my projects, ideas, and technical knowledge.
 
 ** Project README's have wiring, hardware needed, and schematics. **
 
