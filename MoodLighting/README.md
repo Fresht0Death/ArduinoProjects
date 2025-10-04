@@ -1,7 +1,6 @@
 # Mood Lighting
 ## Demo
-![Mood Lighting Demo](## Demo
-![Mood Lighting Demo](Mood_Lighting.gif)
+![Mood Lighting Demo](MoodLighting.gif)
 
 
 Description: Reads input from 3 phototransisitors with red, green, and blue gels on top of phototransistors to only allow for certain light waves to be observed. Once light is oberved under the spectrum allowed for each phototransistor a cathod RGB LED changes depending on what dominating light spectrum is being input.
