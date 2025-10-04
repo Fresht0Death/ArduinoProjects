@@ -1,13 +1,12 @@
 # Potentiometer LEDs
 
-Description: Reads input from button and turns on and off blinking lights depending on the state of the button. Circuit is set up in series, parallel, and neither.
-
+Description: Reads input from potentiometer and as knob is turned from start - finish indicators LEDs start coming on one by one until the max is reached where then a PWM LEDs rises and falls.
 Features:
 
-Press button → voltage let through → if button is not pressed two altnerating red LEDs go on and off back and forth for status "NULL" → if button is pressed a green LED is lit for status "GO" and red LEDs are paused:
+Turn potentiometer → voltage let through baed on how much the potentiometer is turned → 3 LEDs are activated sequentially as potentiometer reaches its max → once potentiometer max is reached the 3 LEDs are turned off and a BLUE LED is Pulse width modulated to create a rising and falling LED:
 
-Arduino Uno (or similar) 1 BUTTON + 3 LEDs + 4 220Ω resistors + Breadboard + jumper wires 
+Arduino Uno (or similar) 1 Potentiometer + 4 LEDs + 4 220Ω resistors + Breadboard + jumper wires 
 
 Wiring:
 
-ARDUINO | | - 5V | - GND | | - pin#2 - 220 Ohm Res - Button | | - pin#3 - 220 Ohm Res - GREEN LED | | - pin#4 - 220 Ohm Res - RED LED | | - pin#5 - 220 Ohm Res - RED LED - GND - 5V - 
+ARDUINO | | - 5V | - GND | | - A0 - 220 Ohm Res - Potentiometer | | - pin#2 - 220 Ohm Res - GREEN LED | | - pin#3 - 220 Ohm Res - RED LED | | - pin#4 - 220 Ohm Res - RED LED - GND - 5V - 
