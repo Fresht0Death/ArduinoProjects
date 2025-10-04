@@ -5,6 +5,14 @@ In an attempt to better understand embedded systems and embedded C, I am buildin
 ** Project README's have wiring, hardware needed, and schematics. **
 
 
+## 🎥 Project Highlights
+
+| SensorTemp | Mood Lighting |
+|------------|---------------|
+| ![SensorTemp Demo](sensorTemp/sensorTemp-ezgif.com-resize.gif) | ![Mood Lighting Demo](MoodLighting/Mood_Lighting.gif) |
+
+
+
 ---
 
 ## 📂 Projects
