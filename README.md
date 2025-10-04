@@ -9,7 +9,7 @@ In an attempt to better understand embedded systems and embedded C, I am buildin
 
 | SensorTemp | Mood Lighting |
 |------------|---------------|
-| ![SensorTemp Demo](sensorTemp/sensorTemp-ezgif.com-resize.gif) | ![Mood Lighting Demo](MoodLighting/Mood_Lighting.gif) |
+| ![SensorTemp Demo](sensorTemp/sensorTemp-ezgif.com-resize.gif) | ![Mood Lighting Demo](MoodLighting/MoodLighting.gif) |
 
 
 
