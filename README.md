@@ -20,6 +20,7 @@ In an attempt to better understand embedded systems and embedded C, I am buildin
 1. sensorTemp
 
 Link to project: 
+
 https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=sensorTemp
 
 Description:
@@ -57,7 +58,8 @@ First intro into simple state machine logic
 
 4. MoodLighting
 
-Link to project: https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=MoodLighting
+Link to project: 
+https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=MoodLighting
 
 Desription:
 A project where different light spectrum levels are used as input via a phototransitor. Depending on what phototransistor recieves the most light, this information is translated to the Cathod RGB LED to represent what light spectrum is being input the most. 
