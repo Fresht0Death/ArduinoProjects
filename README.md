@@ -19,9 +19,7 @@ In an attempt to better understand embedded systems and embedded C, I am buildin
 
 1. sensorTemp
 
-Link to project: 
-
-https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=sensorTemp
+Link to project: https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=sensorTemp
 
 Description:
 Reads temperature from a TMP36 sensor, tracks the hottest and coldest values of the day (°F), and displays temperature ranges with 3 LEDs (°C bands).
