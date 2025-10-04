@@ -37,7 +37,7 @@ Practice with state machines, PWM, and analog scaling
 
 3. spaceshipInterface
 
-Link to project: 
+Link to project: https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=Space_Ship_Interface
 
 Description:
 A simple interactive project inspired by the “spaceship interface” Arduino example. Uses LEDs to simulate a control panel, with input from a pushbutton to trigger LED sequences.
@@ -46,5 +46,17 @@ Digital input via pushbutton
 LED sequencing logic (left/right blink)
 Timing control using delay() and experiments with millis()
 First intro into simple state machine logic
+
+4. MoodLighting
+
+Link to project: https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=MoodLighting
+
+Desription:
+A project where different light spectrum levels are used as input via a phototransitor. Depending on what phototransistor recieves the most light, this information is translated to the Cathod RGB LED to represent what light spectrum is being input the most. 
+Features:
+*Cool mood lighting*
+Light spectrum input and output
+Digital to analog input calculation
+PWM pins being used to handle Cathod RGB light
 
 
