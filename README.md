@@ -10,6 +10,8 @@ In an attempt to better understand embedded systems and embedded C, I am buildin
 ## 📂 Projects
 
 1. sensorTemp
+
+Link to project: 
 https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=sensorTemp
 
 Description:
@@ -21,6 +23,8 @@ LED indicators show temperature zones based on °C thresholds
 Prints live readings + min/max to Serial Monitor
 
 2. potentiometerLEDs
+
+Link to project: 
 https://github.com/Fresht0Death/ArduinoProjects/edit/main/README.md#:~:text=potentiometerLEDs
 
 Description:
@@ -32,6 +36,8 @@ Uses PWM to create a fading pulse effect on the blue LED when the top band is re
 Practice with state machines, PWM, and analog scaling
 
 3. spaceshipInterface
+
+Link to project: 
 
 Description:
 A simple interactive project inspired by the “spaceship interface” Arduino example. Uses LEDs to simulate a control panel, with input from a pushbutton to trigger LED sequences.
