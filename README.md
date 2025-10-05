@@ -69,7 +69,7 @@ PWM pins being used to handle Cathod RGB light
 
 5. Mood-Cue
 Link to project:
-https://github.com/Fresht0Death/ArduinoProjects/blob/main/MoodCue/README.md#:~:text=ezgif.com%2Dvideo%2Dto%2D-,gif,-%2Dconverter.gif
+https://github.com/Fresht0Death/ArduinoProjects/tree/main/MoodCue
 
 Description:
 A project where depending on how far the the potentiometer had been turned maps to movement of the Servo motor. The servo motor expressed the Mood of the user if a room should be entered or not entered depenidng on what state the user put the pointer finger pointing at in.
