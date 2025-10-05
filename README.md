@@ -7,9 +7,9 @@ In an attempt to better understand embedded systems and embedded C, I am buildin
 
 ## 🎥 Project Highlights
 
-| SensorTemp | Mood Lighting |
-|------------|---------------|
-| ![SensorTemp Demo](sensorTemp/sensorTemp-ezgif.com-resize.gif) | ![Mood Lighting Demo](MoodLighting/MoodLighting.gif) |
+| SensorTemp | Mood Lighting | Mood Cue |
+|------------|---------------|----------|
+| ![SensorTemp Demo](sensorTemp/sensorTemp-ezgif.com-resize.gif) | ![Mood Lighting Demo](MoodLighting/MoodLighting.gif) | ![Mood Cue Demo](MoodCue/ezgif.com-video-to-gif-converter.gif)
 
 
 
@@ -66,5 +66,17 @@ Features:
 Light spectrum input and output
 Digital to analog input calculation
 PWM pins being used to handle Cathod RGB light
+
+5. Mood-Cue
+Link to project:
+https://github.com/Fresht0Death/ArduinoProjects/blob/main/MoodCue/README.md#:~:text=ezgif.com%2Dvideo%2Dto%2D-,gif,-%2Dconverter.gif
+
+Description:
+A project where depending on how far the the potentiometer had been turned maps to movement of the Servo motor. The servo motor expressed the Mood of the user if a room should be entered or not entered depenidng on what state the user put the pointer finger pointing at in.
+Features:
+*Hand drawn Pointer finger*
+Decoupling capacitors
+Potentiometer reading
+ADC-degree conversion
 
 
